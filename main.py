@@ -6,6 +6,7 @@ def sort_words(x):
     y = f.read()
     z = y.lower().split()
     z.sort()
+    print("Sorted words are as below")
     print(z)
 
 
@@ -16,7 +17,7 @@ if __name__ == '__main__':
 
     try:
         x = input()
-        print("this is your input:" + x)
+        print("this is your input path:" + x)
         sort_words(x)
     except FileNotFoundError:
         print("Please provide a correct path")
