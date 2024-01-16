@@ -1,0 +1,8 @@
+emp_id,dept_name,emp_firstname,emp_lastname,salary
+1, Management, Paresh, Yadav, 10
+2, IT, Maunee, Patel, 20
+3, IT, Bhakti, Patel, 20
+4, HR, Poonam, Sharma, 30
+5, HR, Gita, Yadav, 30
+6, Finance, Archana, Mistry, 40
+7, Finance, Raunak, Patel, 40
